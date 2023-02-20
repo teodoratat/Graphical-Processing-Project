@@ -1,0 +1,2304 @@
+# Blender 3.4.0 MTL File: 'scenaFic.blend'
+# www.blender.org
+
+newmtl 44224y92ry9hy9htrt.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 4rehhrhrhrhhrhr.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 4yu4yu4yeheheeey.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 4yu4yu4yu4y3tt3.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 585878u5uu4eyryyry.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 5ee55e5e55e5tryfyfggyygygygy.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd WoodenPallet_Albedo.jpg
+
+newmtl 5ju5u74745uu5.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Rocks_Color.jpg
+
+newmtl 5ui5858854uhrhi.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl 5uj5u58578643e6tet.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl 644647y4yy34hyy.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl 64633t6ywgwggwwggstdd5.003
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/SurfaceImperfections001_1K_var1.jpg
+
+newmtl 6ij5ui5u4yu3yt3t3t3t.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl 754754745ryr4y6y4yeye.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color_A2.jpg
+
+newmtl 7t8y4894894yrhhg8.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl 89668uhrgegegt336474.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl BLDA822634.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k_A1111.jpg
+
+newmtl BLDoneA1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDoneA111.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl BLDoneA1222.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDoneA2.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/brick_0002_base_color_2k.jpg
+
+newmtl BLDoneA2222323232333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Marble006_1K_Color.jpg
+
+newmtl BLDoneA22223232323331.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDoneA3.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl BLDoneA3374.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl BLDoneA38437747365.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color_A1.jpg
+
+newmtl BLDoneA44.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/brick_0002_base_color_2k.jpg
+
+newmtl BLDoneA5.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color_A1.jpg
+
+newmtl BLDoneA6.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl BLDoneA7.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDoneA87866.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl BLDoneA9.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rooftop_0001_base_color_2k.jpg
+
+newmtl BLDoneChurchA123456789.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rock005_1K_Color.jpg
+
+newmtl BLDoneChurchA1234567893333333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rock_0006_roughness_2k.jpg
+
+newmtl BLDoneChurchA2233.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA5.png
+
+newmtl BLDoneChurchA2233.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA5.png
+
+newmtl BLDoneChurchA2445554433222.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles002_1K_Color.jpg
+
+newmtl BLDoneChurchA33223445658.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl BLDoneChurchA332234456583333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks009_1K_Color.jpg
+
+newmtl BLDoneChurchA3873.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA6.png
+
+newmtl BLDoneChurchA754.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA5.png
+
+newmtl BLDoneFourA3434.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA4.png
+
+newmtl BLDoneFourA5435355.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Marble007_1K_Color.jpg
+
+newmtl BLDoneFourA56789.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rock029_1K_Color_A222.jpg
+
+newmtl BLDoneFourA5735232.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Marble008_1K_Color.jpg
+
+newmtl BLDoneFourA64643.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles009_1K_Color.jpg
+
+newmtl BLDoneFourA67564635.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA4.png
+
+newmtl BLDoneFourA777888.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks045_1K_Color.jpg
+
+newmtl BLDoneHotelA11212.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/bricks_0011_base_color_2k.jpg
+
+newmtl BLDoneHotelA564322.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsB1.jpg
+
+newmtl BLDoneHotelA6578989856.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles008_1K_Color.jpg
+
+newmtl BLDoneHotelA67565676745.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rock_0006_roughness_2k.jpg
+
+newmtl BLDoneHouseChillA222.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA7.png
+
+newmtl BLDoneHouseChillA2223532211.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rock005_1K_Color.jpg
+
+newmtl BLDoneHouseChillA2224433443434332.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/bricks_0017_base_color_2k.jpg
+
+newmtl BLDoneHouseChillA22287654444.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles008_1K_Color.jpg
+
+newmtl BLDoneSmallHomeA324233211111.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rooftop_0001_base_color_2k.jpg
+
+newmtl BLDoneSmallHomeA34243465.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/bricks_0019_color_2k.jpg
+
+newmtl BLDoneSmallHomeA453455.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsB2.jpg
+
+newmtl BLDoneSmallHomeA678.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rock005_1K_Color.jpg
+
+newmtl BLDonetwoA1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA2.png
+
+newmtl BLDonetwoA222222222.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDonetwoA3.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDonetwoA3434234.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDonetwoA444.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLDonetwoA666666.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rooftop_0002_base_color_2k.jpg
+
+newmtl BLDonetwoA7777.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA2.png
+
+newmtl BLoneGetHomeA38742.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks040_1K_Color.jpg
+
+newmtl BLoneGetHomeA5.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLoneGetHomeA90807567433.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA9.jpg
+
+newmtl BLoneGetHomeA9898773333333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles007_1K_Color.jpg
+
+newmtl BLoneGetHomeA9998777777.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/rock_0006_roughness_2k.jpg
+
+newmtl BLoneThreeA1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLoneThreeA133.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA3.png
+
+newmtl BLoneThreeA1333333333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLoneThreeA135.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks005_1K_Color.jpg
+
+newmtl BLoneThreeA1555.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA3.png
+
+newmtl BLoneThreeA1555.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA2.png
+
+newmtl BLoneThreeA166.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA3.png
+
+newmtl BLoneThreeA1677788888.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl BLoneThreeA1888.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA3.png
+
+newmtl BLoneThreeA19987.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles007_1K_Color.jpg
+
+newmtl BLoneThreeA22.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks046_1K_Color.jpg
+
+newmtl GrassLandsA121212.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/LandGrassingA3.jpg
+
+newmtl HomeShopeA12211212121212.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_ROOF_REST.png
+
+newmtl HomeShopeA122344.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_WINDOWS_DOORS_REST.png
+
+newmtl HomeShopeA546758989.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_WALLS_REST.png
+
+newmtl HomeShopeA55543345.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_RESTWINDOWS_REST.png
+
+newmtl HomeShopeA777777777777777.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_WOODENFRAME_REST.png
+
+newmtl HomeShopeA87645335555555.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/TEXPA_RAINPIPE_REST.png
+
+newmtl HotelA384783782.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/HOTEL_OnRock_A1.jpg
+
+newmtl Just_Building_Apartment_13.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Building_Apartment_13.jpg
+
+	
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sky.png
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl Material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/PlantsSet_030_stoplight.png
+
+newmtl Material.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/PlantsSet_WC_Blue_Flower.png
+
+newmtl Material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/bricks_0017_base_color_2k.jpg
+
+newmtl Material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/bricks_0017_base_color_2k.jpg
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/bricks_0017_base_color_2k.jpg
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/bricks_0017_base_color_2k.jpg
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/bricks_0017_base_color_2k.jpg
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.030
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.031
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.033
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.034
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.035
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.036
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.037
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.038
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.039
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/concrete_0018_color_2k.jpg
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/PlantsSet_PlantsPumpkinPlant_Color.png
+
+newmtl Material.042
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/TEXPA_COVER_LIGHT_REST.png
+
+newmtl Material.043
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.046
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.049
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.050
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.051
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.052
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Wood030_1K_Color_A1.jpg
+
+newmtl Material.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/bricks_0019_color_2k.jpg
+
+newmtl Material.055
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color-1.jpg
+
+newmtl Material.056
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color-1.jpg
+
+newmtl Material.057
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color.jpg
+
+newmtl Material.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color.jpg
+
+newmtl Material.059
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.061
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.064
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.065
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.066
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Metal028_1K_Color_A2.jpg
+
+newmtl Material.070
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Grass003_1K_Color.jpg
+
+newmtl Material.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/textures/Building_Apartment_13.jpg
+
+newmtl Material.079
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/Textures/Diffuse_map.png
+
+newmtl Material.080
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/Textures/Diffuse_map.png
+
+newmtl Material.084
+Ns 96.078415
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 9
+map_Kd C:/Users/VivoBook/Downloads/mill-low-poly/source/MillEXPORT6/Part2MillModel11.png
+map_d C:/Users/VivoBook/Downloads/mill-low-poly/source/MillEXPORT6/Part2MillModel11.png
+
+newmtl Material.086
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/mill-low-poly/textures/FillTexture80.png
+
+newmtl Material.092
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/playground/textures/Playground1_None_color.jpg
+
+newmtl Material.093
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bark_diffuse.png
+
+newmtl Material.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bark_diffuse.png
+
+newmtl Material.095
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bark_diffuse.png
+
+newmtl Material.099
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/leafjpg.jpg
+
+newmtl Material.100
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/leafjpg.jpg
+
+newmtl Material.101
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/leafjpg.jpg
+
+newmtl Material.102
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/leafjpg.jpg
+
+newmtl Material.103
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/VivoBook/Downloads/leafjpg.jpg
+
+newmtl PlantsPlte3636.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/PlantsSet_Rose_Leaves_BaseColor.png
+
+newmtl Plantsegt3t355632653265.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/PlantsSet_Bamboo_Color.jpg
+
+newmtl Plantsgsfsretr5w522525526622.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/PlantsSet_wood_0029_color_2k.jpg
+
+newmtl Plantssfgwt3t363653636y37y36632.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/PlantsSet_clover_baseColour.png
+
+newmtl RandomFenceA38721.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl RandomFenceA49878970.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks014_1K_Color.jpg
+
+newmtl RandomFenceA4987897033333.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks044_1K_Color.jpg
+
+newmtl RandomFenceA498789705555555.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl RandomFenceA498789709999999.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Marble008_1K_Color.jpg
+
+newmtl SideWalkA1.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoadA2.jpg
+
+newmtl SideWalkA2.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/concrete_0018_color_2k.jpg
+
+newmtl StageCouchShopA887987.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/FarmUV.png
+
+newmtl TheRoadA8978899.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoadA1.jpg
+
+newmtl TossBLDa36676678768788.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA1.png
+
+newmtl TossBLDa36676678768788324.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WindowsA8.jpg
+
+newmtl TossBLDa3667667876878878888888888888888888.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Concrete026_1K_Color.jpg
+
+newmtl TossBLDa369767.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Bricks045_1K_Color.jpg
+
+newmtl TossBLDa36976744677.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/RoofingTiles010_1K_Color.jpg
+
+newmtl WinDoorsA1111231234.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_WINDOWS_DOORS.png
+
+newmtl WinDoorsA3423432.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_WALL_SHOP.png
+
+newmtl WinDoorsA5645688.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_WOODEN_FRAME_SHOP.png
+
+newmtl WinDoorsA56478889898.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_BALCONY_SHOP.png
+
+newmtl WinDoorsA5654677889.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_ROOF_2.png
+
+newmtl WinDoorsA565468996.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/WoWA1_TEX_DRAIN_SHOP.png
+
+newmtl drr55455w36w6wwtst.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Marble007_1K_Color.jpg
+
+newmtl dttde5r4es4w44242rww.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color.jpg
+
+newmtl eget3t2525252rtwtwtwt3wt36363.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl egsegwtr5252525rttrf.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl egyet563363y3eeyeeygey.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color_A1.jpg
+
+newmtl erbeh55h4563h536h363626h.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/wooden_crate_barrel_BaseColor.jpg
+
+newmtl ersrwrw5w54w252252twwtwttwtw.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Weapon box_Albedo.jpg
+
+newmtl esggesghhrrhyryetwrwr.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl ete555225wtwssgwwwsygw66w26.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/CartDetails_BaseColor.jpg
+
+newmtl etetiur5h8258925892tgt2t2.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/wooden_crate_barrel_BaseColor.jpg
+
+newmtl ewrwe5r5e5e5e6err6.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/ground_0001_base_color_2k.jpg
+
+newmtl fgestet3t252525t2tgeet.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl hy564yh45yh45yh545hyyh.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/FenceLP_frame_BaseColor.png
+
+newmtl material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/material_baseColor.jpeg
+map_Bump -bm 1.000000 C:/material_normal.jpeg
+
+newmtl rdsr4w55w25236563wwtty6e.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Grass003_1K_Color.jpg
+
+newmtl reer55ee55356eestgtg.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color.jpg
+
+newmtl rh3t363563636ey.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl rhehgwwfrhjtkju57547.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl rkjerh8te895389532y25689gh2t8.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/wooden_crate_barrel_BaseColor.jpg
+
+newmtl roi63803609404hoikehlkojlky4.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Hay_Color.jpg
+
+newmtl rret53525522525.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/wood_fence.jpg
+
+newmtl rssrsroirsoishohfoshoif002.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/wooden_crate_barrel_BaseColor.jpg
+
+newmtl rte6ttyeehhehey3e7336e3663wyyeyeye.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/CartBase_BaseColor.jpg
+
+newmtl rujrururuittiey4e64464.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl rwr5322552456363tywggwwg.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color_A2.jpg
+
+newmtl rwwrwt252525twtwgfwfgwgwtwttw.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/PlantsSet_wood_0029_color_2k.jpg
+
+newmtl ryr56644y4uuhjrhe.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl ryryeytet5teruru4u7474774.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl sfr4w225536twwtwtwtwtwtwttwt.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl sgwttw365363255656.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/LitterPlastic001_A111.jpg
+
+newmtl srs44w5w425w266twwtwtgwgw.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color.jpg
+
+newmtl srsrpoiafnapfpjoinqpjo29-0u25095209520295.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/wooden_crate_barrel_BaseColor.jpg
+
+newmtl tddtdgyhdyruhruy744774747747.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl teertertre4w42425542.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Grass003_1K_Color.jpg
+
+newmtl titryeytet56336447u.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Rocks_Color.jpg
+
+newmtl ttetee55w5w35w52w5wwtwt.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Wood030_1K_Color.jpg
+
+newmtl tyty363t335twgw.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/StreetSignA1_Color.jpg
+
+newmtl uyvugyvutygvew873873878787.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color.jpg
+
+newmtl wtwttw3t3255335twwtwt.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/VivoBook/Downloads/solo-town-preview-free-low-poly/source/SoloTownPreviewObject/SoloTownPreviewObject/Object And Texture/Metal028_1K_Color.jpg
